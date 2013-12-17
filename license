@@ -1,0 +1,28 @@
+User may not:
+
+(i) sell, redistribute, encumber, give, lend, rent, lease, sublicense, or otherwise transfer the code, or any portions of the code, to anyone without the prior written consent of Data Tactics Corporation.
+
+(ii) reverse engineer, decompile, disassemble, modify, translate, or create derivative works from the code, or
+
+(iii) use the code for any commercial purpose
+
+Please cite: 
+Author (Shrayes Ramesh), Title (Modified Canopy Clustering, Year (2013), Publisher (Github), Journal (Github), and commi (depending on your citation style). 
+
+BibTeX entry:
+
+@misc{Shrayes Ramesh,
+  author = {Shrayes, Ramesh},
+  title = {Modified Canopy Clustering},
+  year = {2013},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/shrayesramesh}},
+  commit = {6eedb05a4e103533f6962625afce9f9616908600}
+}
+
+
+Warranty
+Except as expressly stated in the immediately preceding sentence, the Original Work is provided on an "AS IS" BASIS and WITHOUT WARRANTY, either express or implied, including, without limitation, the warranties of non-infringement, merchantability or fitness for a particular purpose. THE ENTIRE RISK AS TO THE QUALITY OF THE ORIGINAL WORK IS WITH YOU. This DISCLAIMER OF WARRANTY constitutes an essential part of this Use License. No license to the Original Work is granted by this License except under this disclaimer.
+ 
+Data Tactics Corporation ©2013
